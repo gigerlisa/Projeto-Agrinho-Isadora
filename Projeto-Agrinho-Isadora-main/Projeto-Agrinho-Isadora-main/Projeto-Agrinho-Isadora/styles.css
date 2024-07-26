@@ -1,8 +1,8 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --botao-azul: #702d38ad;
+    --cor-de-fundo: #270808ee;
     --fonte-principal: 'Inter';
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("imagemdefundocafé.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
